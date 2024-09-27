@@ -1,3 +1,9 @@
+# Programmers:  [Ethan, Harry]
+# Course:  CS151, [Dr. Zee]
+# Due Date: 9/25/2024
+# Lab Assignment: 02
+# Program Purpose: [This program calculates population loss or growth, over time.]
+
 # Print a Welcome Message
 print("This program will help you evaluate population growth or loss, over time.")
 
