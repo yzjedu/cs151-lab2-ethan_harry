@@ -21,9 +21,9 @@
 ### Open Test
 |Result |Description|
 |--------------|-----------------------------------------|
-|**-NO**| The algorithm matches the code   |
-|**-NO**| There is a block of introductory comments at the top |  
-|**-NO**| Purpose of the program is stated below or above intro comments as a comment  |
+|**-YES**| The algorithm matches the code   |
+|**-YES**| There is a block of introductory comments at the top |  
+|**-YES**| Purpose of the program is stated below or above intro comments as a comment  |
 |**YES-**| There are comments in the code (do not need to determine if they are good)|
 |**YES-**| Nothing is typecast to an int during calculation (fine at end for output or to typecast input as int)|
 
@@ -31,4 +31,4 @@
 - The if else part of the algorithm does not match the code. 
 - There is no intro comment and purpose of the program. 
 - Address all the NO in this document 
-### Grade: R
+### Grade: E
